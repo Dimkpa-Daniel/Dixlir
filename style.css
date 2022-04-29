@@ -1,0 +1,215 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.main-container{
+
+    background-image:url(./img/Rectangle\ 3.png);
+    height: 650px;
+    background-repeat:no-repeat;
+    background-size: cover;
+   margin-bottom: 30px;
+}
+li a{
+
+color: white !important;
+
+}
+
+.navbar-brand{
+    color: white !important;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.d-nav{
+
+justify-content: space-between !important;
+
+}
+.text-center{
+
+    padding-top: 200px;
+    color: white;
+
+}
+.btn{
+
+width: 160px;
+height: 7vh;
+border-radius: 70px;
+font-family: 'Lucida Sans';
+font-weight: bold;
+
+}
+
+.d-col{
+
+    background-image: url(./img/7485231.jpg);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+ 
+
+}
+.d-col1{
+
+    background-image: url(./img/wp7098868-upside-down-magic-movie-wallpapers.jpg);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+.d-col2{
+
+    background-image: url(./img/helop\ 1.jpg);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+.d-col3{
+
+    background-image: url(./img/download\ \(2\).jpg);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+.d-col4{
+
+    background-image: url(./img/gaming\ 1.jpg);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+.d-col5{
+
+    background-image: url(./img/download\ \(3\).jpg);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+.d-col6{
+
+    background-image: url(./img/20527175044.jpg);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+.d-col7{
+
+    background-image: url(./img/Diary_of_a_Wimpy_Kid_The_Ugly_Truth_book_cover.jpg);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+.d-col8{
+
+    background-image: url(./img/download\ \(1\).jpg);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+.d-col9{
+
+    background-image: url(./img/Mercy-Chinwo.jpg);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+.d-col10{
+
+    background-image: url(./img/NathanielBassey.jpg);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+.d-col11{
+
+    background-image: url(./img/Frank-Edwards.jpg);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+
+.d-card-flex{
+
+    margin-top: 300px;
+
+}
+.d-col-sm1{
+
+padding-left: 130px;
+
+}
+
+.my-h4{
+    color: white;
+}
+.b-flex{
+
+color: rgb(44, 42, 42);
+
+}
+
+.footer{
+    background-color: rgb(30, 29, 29);
+    padding:40px 20px 0px 0px;
+    margin-top: 50px;
+}
+
+.d-card-flex img{
+height: 60px ;
+width: 60px ;
+}
+
+.d-card-flex h5{
+    color: rgb(254, 171, 5);
+}
+
+@media (min-width: 992px){
+    .text-center h1{
+        font-size: 60px;
+    }
+    .text-center p{
+        font-size: 20px;
+    }
+
+    .text-center button{
+      height: 80px;
+      width: 200px;
+        font-size: 30px;
+    }
+}
+
+
+@media (max-width: 500px){
+   
+    .d-row{
+        
+        width: 300px;
+        margin:  auto;
+    }
+}
